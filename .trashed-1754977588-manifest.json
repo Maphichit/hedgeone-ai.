@@ -1,0 +1,13 @@
+{
+  "name": "HedgeOne AI",
+  "short_name": "HedgeOne",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "HedgeOne AI PWA App",
+  "icons": [{
+    "src": "/icon-192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }]
+}
